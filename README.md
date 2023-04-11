@@ -5,23 +5,11 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/asewoii/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-    <a href="https://github.com/asewoii/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/asewoii/github-readme-stats" />
-    </a>
-    <a href="https://codecov.io/gh/asewoii/github-readme-stats">
-      <img src="https://codecov.io/gh/asewoii/github-readme-stats/branch/master/graph/badge.svg" />
-    </a>
-    <a href="https://github.com/asewoii/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/asewoii/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/asewoii/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/asewoii/github-readme-stats?color=0088ff" />
-    </a>
-    <br />
-    <br />
+    <img alt="Code-React-informational" title="Code-React-informational" width="100px" src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB"/>
+    <img alt="Watch" title="Watch" width="113px" src="https://freshidea.com/jonah/app/github-search-results/streak-stats"/>
+</p>
+
+<p align="center">
     <a href="https://discord.gg/4yS2paw6zt">
       <img alt="Twitter" title="Discord" width="25px" alt="Discord" src="https://github.com/asewoii/asewoii/blob/main/icon/Discord.png"/>
     </a>
@@ -37,12 +25,13 @@
     <a href="https://www.tiktok.com/@ase_woii">
       <img alt="Tiktok" title="Tiktok" width="25px" src="https://github.com/asewoii/asewoii/blob/main/icon/Tik%20Tok.png"/>
     </a>
-  </p>
-  
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+</p>
 
-[![Statistik github Anurag](https://github-readme-stats.vercel.app/api?username=asewoii)](https://github.com/asewoii)
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=asewoii&theme=cobalt&hide_border=true&type=png&stroke=3813EB"/></a>
+    <a href="https://github.com/asewoii"><img src="https://github-readme-stats.vercel.app/api?username=asewoii"/></a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asewoii&layout=compact)](https://github.com/asewoii)
-
-
+### 🫠 PROFILE
+##
+📝 `NAMA` `I NYOMAN BUDI YASYE` `20220801147` <br> <br> 📝 `JURUSAN` `TEKNIK INFORMATIKA` 
