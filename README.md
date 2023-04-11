@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+[![Statistik github Anurag](https://github-readme-stats.vercel.app/api?username=asewoii)](https://github.com/asewoii)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asewoii&layout=compact)](https://github.com/asewoii)
+
+
