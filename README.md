@@ -22,11 +22,20 @@
     </a>
     <br />
     <br />
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
-      <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+    <a href="https://discord.gg/4yS2paw6zt">
+      <img alt="Twitter" title="Discord" width="25px" alt="Discord" src="https://github.com/asewoii/asewoii/blob/main/icon/Discord.png"/>
     </a>
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
-      <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
+    <a href="https://www.instagram.com/asewoiii/">
+      <img alt="Instagram" title="Instagram" width="25px" src="https://github.com/asewoii/asewoii/blob/main/icon/Instagram.png"/>
+    </a>
+    <a href="https://github.com/asewoii/asewoii">
+      <img alt="Github" title="Github" width="25px" src="https://github.com/asewoii/asewoii/blob/main/icon/Github.png"/>
+    </a>
+    <a href="https://api.whatsapp.com/send?phone=628978842567&text=*_Heloo..._*">
+      <img alt="Whatsapp" title="Whatsapp" width="25px" src="https://github.com/asewoii/asewoii/blob/main/icon/WhatsApp.png"/>
+    </a>
+    <a href="https://www.tiktok.com/@ase_woii">
+      <img alt="Tiktok" title="Tiktok" width="25px" src="https://github.com/asewoii/asewoii/blob/main/icon/Tik%20Tok.png"/>
     </a>
   </p>
   
