@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![logo-nyoman-github](https://user-images.githubusercontent.com/61147623/231109328-7d24bf52-6b4a-4bb7-b190-1a2cb9dca389.png)
 <img width=”200" height=”200" src=”https://user-images.githubusercontent.com/61147623/231109328-7d24bf52-6b4a-4bb7-b190-1a2cb9dca389.png" alt=”my banner”>
