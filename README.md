@@ -31,7 +31,3 @@
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=asewoii&theme=cobalt&hide_border=true&type=png&stroke=3813EB"/></a>
     <a href="https://github.com/asewoii"><img src="https://github-readme-stats.vercel.app/api?username=asewoii"/></a>
 </p>
-
-### 🫠 PROFILE
-##
-📝 `NAMA` `I NYOMAN BUDI YASYE` `20220801147` <br> <br> 📝 `JURUSAN` `TEKNIK INFORMATIKA` 
